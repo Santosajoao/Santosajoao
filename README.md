@@ -14,7 +14,7 @@ I am communicative, easy to work in groups, easy to adapt to the most diverse si
   <img align="center" alt="C" height="40" width="40" src="https://lh3.googleusercontent.com/pw/AMWts8A-E4TASHzFXVj-Z6P9LmoJhlz8AQqkY6iMknQE76A_OwWj3N5rSwm6wOQo3DqLx_Wec5TyGyfKTnTLowfwr4rVkNEXWO4BuYDYoqUCb67tasBMe8kawPbGUhazyaXK-5-M8QafgyntIOQMQHyE0Iyc=s587-no?authuser=0">
   
 
-  <img align="right" alt="João-Pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/112666791?v=4">
+ <img align="right"  height="150" style="border-radius:50px;" >
 </div>
   
   ##
