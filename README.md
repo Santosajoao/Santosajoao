@@ -11,7 +11,7 @@ I am communicative, easy to work in groups, easy to adapt to the most diverse si
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="C" height="40" width="40" src="https://i.pinimg.com/564x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg">
+  <img align="center" alt="C" height="40" width="40" src="https://lh3.googleusercontent.com/pw/AMWts8ByM7Ydsn9bqFmuSJAC8bgpMS7HETUKVz_u3c9E6xkTOUR1omaBlG-GXJLLPEnqFeRySCnXjJri2jJoad9pZUq4AtnVLeMYtpimrZJ-SKTqoqp9ddEsktMmAX7IpBfU4MezBPRLuRX3fj9tIzpXsFfi=w532-h587-no?authuser=0">
   
 
  <img align="right"  height="150" style="border-radius:50px;" >
