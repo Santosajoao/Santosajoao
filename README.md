@@ -8,8 +8,8 @@ I'm João Pedro Santos de Araujo
 I am communicative, easy to work in groups, easy to adapt to the most diverse situations, proactive and problem-solving ability. I have knowledge of web development such as HTML, CSS and JavaScript. Also having basic knowledge of the C language. I want to learn more and grow professionally in the area of software development.
 
 Some projects: 
-<a href="https://santosajoao.github.io/projeto-android/index" target="_blank">Projeto Android</a>
-<a href="https://santosajoao.github.io/landing-page/index" target="_blank">Landing Page</a>
+<a href="https://santosajoao.github.io/projeto-android/index" target="_blank">Projeto Android</a> |
+<a href="https://santosajoao.github.io/landing-page/index" target="_blank">Landing Page</a> |
 <a href="https://santosajoao.github.io/calculadora/index" target="_blank">Calculadora</a>
 
 <div style="display: inline_block"><br>
