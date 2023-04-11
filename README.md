@@ -7,6 +7,11 @@ I'm João Pedro Santos de Araujo
 - 👦 About me: Studying 2nd period of Software Engineering at UTFPR (Federal Technological University of Paraná).
 I am communicative, easy to work in groups, easy to adapt to the most diverse situations, proactive and problem-solving ability. I have knowledge of web development such as HTML, CSS and JavaScript. Also having basic knowledge of the C language. I want to learn more and grow professionally in the area of software development.
 
+Some projects: 
+<a href="https://santosajoao.github.io/projeto-android/index" target="_blank">Projeto Android</a>
+<a href="https://santosajoao.github.io/landing-page/index" target="_blank">Projeto Android</a>
+<a href="https://santosajoao.github.io/calculadora/index" target="_blank">Projeto Android</a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,7 +29,7 @@ I am communicative, easy to work in groups, easy to adapt to the most diverse si
 <div> 
   
 
-  <a href = "mailto:joaosantos162003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaosantos162003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/joaopedrosaraujo/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/santosajoao" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="external"></a>
   
