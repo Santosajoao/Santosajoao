@@ -9,8 +9,8 @@ I am communicative, easy to work in groups, easy to adapt to the most diverse si
 
 Some projects: 
 <a href="https://santosajoao.github.io/projeto-android/index" target="_blank">Projeto Android</a>
-<a href="https://santosajoao.github.io/landing-page/index" target="_blank">Projeto Android</a>
-<a href="https://santosajoao.github.io/calculadora/index" target="_blank">Projeto Android</a>
+<a href="https://santosajoao.github.io/landing-page/index" target="_blank">Landing Page</a>
+<a href="https://santosajoao.github.io/calculadora/index" target="_blank">Calculadora</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
