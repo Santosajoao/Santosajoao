@@ -8,6 +8,9 @@ I'm João Pedro Santos de Araujo
 I am communicative, easy to work in groups, easy to adapt to the most diverse situations, proactive and problem-solving ability. I have knowledge of web development such as HTML, CSS and JavaScript, React, SQL, Python. Currently doing Bootcamp Santander Full-Stack Java + Angular, also having the basic knowledge of C#. I want to learn more and grow professionally in the area of software development.
 
 Some projects: 
+<a href="https://starwars-jet.vercel.app/" target="_blank">Desafio SWAPI</a> |
+<a href="https://busca-cep-three-gilt.vercel.app/" target="_blank">Buscador de CEP</a> |
+<a href="https://santosajoao.github.io/qr-generator/" target="_blank">QR Generator</a> |
 <a href="https://santosajoao.github.io/projeto-android/index" target="_blank">Projeto Android</a> |
 <a href="https://santosajoao.github.io/calculadora/index" target="_blank">Calculadora</a>
 
