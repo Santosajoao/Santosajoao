@@ -11,7 +11,6 @@ Some projects:
 <a href="https://starwars-jet.vercel.app/" target="_blank">Desafio SWAPI</a> |
 <a href="https://busca-cep-three-gilt.vercel.app/" target="_blank">Buscador de CEP</a> |
 <a href="https://santosajoao.github.io/qr-generator/" target="_blank">QR Generator</a> |
-<a href="https://santosajoao.github.io/projeto-android/index" target="_blank">Projeto Android</a> |
 <a href="https://santosajoao.github.io/calculadora/index" target="_blank">Calculadora</a>
 
 <div style="display: inline_block"><br>
