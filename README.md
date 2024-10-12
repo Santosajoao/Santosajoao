@@ -4,8 +4,8 @@ I'm João Pedro Santos de Araujo
 - 🔭 I’m currently study at Universidade Tecnológica Federal do Paraná 
 - 🌱 Always seeking knowledge 
 - 📫 Contact me: joaosantos162003@gmail.com
-- 👦 About me: Studying 4th period of Software Engineering at UTFPR (Federal Technological University of Paraná).
-I am communicative, easy to work in groups, easy to adapt to the most diverse situations, proactive and problem-solving ability. I have knowledge of web development such as HTML, CSS and JavaScript, React, SQL, Python. Currently doing Bootcamp Santander Full-Stack Java + Angular, also having the basic knowledge of C#. I want to learn more and grow professionally in the area of software development.
+- 👦 About me: Studying 5th period of Software Engineering at UTFPR (Federal Technological University of Paraná).
+I am communicative, easy to work in groups, easy to adapt to the most diverse situations, proactive and problem-solving ability. I have knowledge of web development such as HTML, CSS and JavaScript, React, SQL, Python. I want to learn more and grow professionally in the area of software development.
 
 Some projects: 
 <a href="https://starwars-jet.vercel.app/" target="_blank">Desafio SWAPI</a> |
